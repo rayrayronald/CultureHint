@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^37.0.12",
+    "expo": "^48.0.0",
     "prop-types": "^15.7.2",
     "react": "~16.9.0",
     "react-art": "^16.13.1",
